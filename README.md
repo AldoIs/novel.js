@@ -1,8 +1,9 @@
 **Important note!** Development has been a bit slow lately as I am a student with limited time, but if you find any bugs please write an issue and I will sort it out! Pull requests are also welcome. I want to keep Novel.js well-maintained.
 
 # Novel.js
-
-[![Build Status](https://travis-ci.org/Nanofus/novel.js.svg?branch=master)](https://travis-ci.org/Nanofus/novel.js) [![Dependency Status](https://david-dm.org/Nanofus/novel.js.svg)](https://david-dm.org/Nanofus/novel.js) [![devDependency Status](https://david-dm.org/Nanofus/novel.js/dev-status.svg)](https://david-dm.org/Nanofus/novel.js#info=devDependencies)
+[![Run on Repl.it](https://repl.it/badge/github/AldoIs/novel.js)](https://repl.it/github/AldoIs/novel.js)
+[![Build Status](https://travis-ci.org/Nanofus/novel.js.svg?branch=master)](https://travis-ci.org/Nanofus/novel.js) [![Dependency Status](https://david-dm.org/Nanofus/novel.js.svg)](https://david-dm.org/Nanofus/novel.js) [![devDependency Status](https://david-dm.org/Nanofus/novel.js/dev-status.svg)](https://david-
+dm.org/Nanofus/novel.js#info=devDependencies)
 [![GitHub release](https://img.shields.io/github/release/Nanofus/novel.js.svg)](https://github.com/Nanofus/novel.js/releases/latest) [![npm version](https://badge.fury.io/js/novel-js.svg)](https://badge.fury.io/js/novel-js) [![npm](https://img.shields.io/npm/dm/novel-js.svg?maxAge=2592000)](https://www.npmjs.com/package/novel-js) [![npm](https://img.shields.io/npm/dt/novel-js.svg?maxAge=2592000)](https://www.npmjs.com/package/novel-js)
 
 Novel.js is a versatile, lightweight JavaScript text game engine that works directly in the browser.
